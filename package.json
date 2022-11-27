@@ -1,0 +1,25 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "Express.js Challenge: Note Taker",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.1",
+      "react-scripts": "^5.0.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/CindyX1109/challenge11.git"
+    },
+    "keywords": [],
+    "bugs": {
+      "url": "https://github.com/CindyX1109/challenge11/issues"
+    },
+    "homepage": "https://github.com/CindyX1109/challenge11/blob/main/README.md"
+  }
